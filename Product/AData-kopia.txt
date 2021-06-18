@@ -1,0 +1,40 @@
+DIS
+Agnieszka Kowalska, f, 40, 712813999, aga@onet.pl, BAN, false, true, W, 1, 1, 3, She would like to have southern windows
+Jan Szczodry, m, 56, 237829338, null, INT, true, false, W, 3, 1, 5, Happy with the purchase.
+DIS
+Nina Niedzielska, f, 32, 237847368, niedzielska89@gmail.com, INT, false, false, null, 0, 0, 0, null
+DIS
+Gabriela Potrzeba, f, 26, 72283941, null, BAN, false, true, null, 2, 1, 3, Only doing a market research.
+Jakub Ewar, m, 41, 0, ewarjakub@icloud.com, BAN, false, false, W, 2, 2, 4, Seems very interested in this location.
+DIS
+Marcin Krzyczy, m, 48, 723823771, null, INT, false, false, E, 1, 2, 3, null
+DIS
+Hanna Jarowska, f, 57, 237193755, hjarowska@wp.pl, BAN, false, false, null, 0, 1, 3, null
+DIS
+Jerzy Kasprech, m, 38, 0, kasprechjerzy@spoko.pl, INT, false, false, null, 2, 1, 4, null
+DIS
+Piotr Pieprzak, m, 52, 0, pppieprzak@gmail.com, INT, false, false, null, 1, 0, 4, null
+DIS
+Andrzej, m, 49, 728892177, null, BAN, false, false, E, 0, 1, 3, null
+DIS
+Anna Hakowska, f, 36, 182732263, hakowska@jahoo.com, INT, false, false, W, 1, 1, 4, null
+DIS
+Joanna Niewidz, f, 51, 738662514, null, INT, false, true, null, 1, 0, 4, null
+DIS
+Stanislav Novak, m, 31, 291827328, novakstan@onet.pl, BAN, false, true, E, 2, 1, 4, null
+DIS
+Anita Horoszko, f, 36, 0, horoszkoanita@gmail.com, INT, false, false, null, 1, 0, 4, null
+DIS
+Zuzanna Jaszcurek, f, 40, 732825149, zuzannajaszcz@wp.pl, INT, false, false, W, 1, 1, 4, null
+DIS
+Mateusz Zawilson, m, 58, 628301923, zawilson3000@gmail.com, INT, false, false, null, 1, 1, 4, null
+DIS
+Jacek Szymanowski, m, 41, 362993827, j.szymanow@hotmail.com, BAN, false, false, null, 1, 1, 4, null
+DIS
+Marta Karasek, f, 22, 733625301, karasiakasia@icloud.com, INT, false, true, E, 2, 1, 4, null
+DIS
+Zofia Ozga, f, 32, 283726344, null, INT, false, false, null, 0, 0, 3, null
+DIS
+Anna Solska, f, 45, 736254133, null, INT, false, false, E, 2, 0, 4, null
+DIS
+Lauren Renee, f, 23, 235463551, lauren.renee@gmail.com, INT, false, false, null, 1, 1, 4, Wants to move to Poland. Currently lives in Germany.

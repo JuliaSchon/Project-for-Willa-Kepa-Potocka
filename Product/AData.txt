@@ -1,0 +1,64 @@
+DIS
+Agnieszka Kowalska, F, 40, 712813999, aga@onet.pl, banner ad, false, true, W, 1, 1, 3, She would like to have southern windows
+Jan Szczodry, M, 56, 237829338, null, internet ad, true, false, W, 3, 1, 5, Happy with the purchase.
+Miłosz Dąbrowski, M, 18, 693290550, mimid2001@gmail.com, internet ad, false, false, null, 1, 1, 4, Java developer. Has a lot of money.
+Fabio Ciritto, M, 39, 71281923831, null, internet ad, false, false, W, 0, 0, 3, Just moved here
+DIS
+Nina Niedzielska, F, 32, 237847368, niedzielska89@gmail.com, internet ad, false, false, null, 0, 0, 0, null
+Paula Benet, F, 42, 2819236123, null, ads, false, false, W, 0, 0, 3, Likes the park
+Jade Flywall, F, 37, 7311238193, null, internet ad, false, false, E, 3, 0, 3, Likes the view of the Bielańskie forest.
+DIS
+Gabriela Potrzeba, F, 26, 72283941, null, banner adner ad, false, true, null, 2, 1, 3, Only doing a market research.
+Jakub Ewar, M, 41, 0, ewarjakub@icloud.com, banner ad, false, false, W, 2, 2, 4, Seems very internet aderested in this location.
+John Smith, M, 31, 129817236, null, internet ad, false, false, E, 1, 0, 3, Likes the greenery.
+Zuzia Szwedes, F, 32, +48 231 713 513, szwedez.zuzzz@gmail.com, from a friend, false, true, E, 0, 0, 3, Will take out a mortgage loan.
+DIS
+Marcin Krzyczy, M, 48, 723823771, null, internet ad, false, false, E, 1, 2, 3, null
+Aleksandra Sielczak, F, 38, +48 728 231 123, ala.sielczak@onet.pl, Facebook ad, false, false, E, 1, 0, 4, Likes that there is a busstop nearby.
+DIS
+Hanna Jarowska, F, 57, 237193755, hjarowska@wp.pl, banner ad, false, false, null, 0, 1, 3, null
+Gabriella Guine, M, 42, 9723572391, null, from friend, false, false, E, 0, 0, 4, wants a tarrace
+Tatiana Verdi, M, 51, 722638219, null, walking by, false, false, E, 0, 0, 3, likes the color of the front.
+Jakub Kowalski, M, 40, 317124123, jakub.kowal@gmail.com, internet ad , false, false, W, 1, 1, 5, Lives nearby
+Dora Jankowska, F, 25, 9128416237, dora.jan@icloud.com, internet ad, false, false, W, 1, 1, 4, Will plant flowers in garden.
+Jan Orlowski, M, 38, +48 2136 12812 12, orlowskijan@gmail.com, from a friend, false, true, E, 1, 2, 3, Likes the park nearby. 
+DIS
+Jerzy Kasprech, M, 38, 0, kasprechjerzy@spoko.pl, internet ad, false, false, null, 2, 1, 4, null
+DIS
+Piotr Pieprzak, M, 52, 0, pppieprzak@gmail.com, internet ad, false, false, null, 1, 0, 4, null
+Joanna Krupa, F, 44, +38 712 127 662, krupa@joanna.com, from friend, false, true, W, 0, 0, 3, Works nearby.
+DIS
+Andrzej, M, 49, 728892177, null, banner ad, false, false, E, 0, 1, 3, null
+Maria Gedziorowska, F, 20, +48 287 231 733, maria.gendzior@gmail.com, saw banner ad walking by, false, true, E, 1, 0, 4, Likes the greenery.
+Michael Studios, M, 34, +32 332 238 1833, mStudios@jahoo.com, internet ad, false, false, E, 1, 0, 4, Moved to Warsaw
+Jessica Bay, F, 23, +48 1361 37138 2121, jessica@gmail.com, from a friend, false, true, E, 0, 1, 4, Likes the park.
+DIS
+Anna Hakowska, F, 36, 182732263, hakowska@jahoo.com, internet ad, false, false, W, 1, 1, 4, null
+DIS
+Joanna Niewidz, F, 51, 738662514, null, internet ad, false, true, null, 1, 0, 4, null
+John Smith, M, 38, +48 23139 137183, john.smith@gmail.com, froma  friend, false, true, W, 1, 1, 4, he will get a mortgage
+DIS
+Stanislav Novak, M, 31, 291827328, novakstan@onet.pl, banner ad, false, true, E, 2, 1, 4, null
+DIS
+Anita Horoszko, F, 36, 0, horoszkoanita@gmail.com, internet ad, false, false, null, 1, 0, 4, null
+DIS
+Zuzanna Jaszcurek, F, 40, 732825149, zuzannajaszcz@wp.pl, internet ad, false, false, W, 1, 1, 4, null
+DIS
+Mateusz Zawilson, M, 58, 628301923, zawilson3000@gmail.com, internet ad, false, false, null, 1, 1, 4, null
+DIS
+Jacek Szymanowski, M, 41, 362993827, j.szymanow@hotmail.com, banner ad, false, false, null, 1, 1, 4, null
+DIS
+Marta Karasek, F, 22, 733625301, karasiakasia@icloud.com, internet ad, false, true, E, 2, 1, 4, null
+Ashley Tisanne, F, 32, +48 1231 1237 23, thisanne.a@icloud.com, internet ad, false, true, E, 0, 0, 3, none.
+DIS
+Zofia Ozga, F, 32, 283726344, null, internet ad, false, false, null, 0, 0, 3, null
+DIS
+Anna Solska, F, 45, 736254133, null, internet ad, false, false, E, 2, 0, 4, null
+Maksiu Skiendziel, M, 69, 692612342, sskiendziel@ai.com, internet ad, false, true, E, 1, 0, 3, Not very internet aderested in buying the apartment.
+Michal Piskorski, M, 48, 7423472349, m.piskorski@jahoo.com, Facebook ad, false, false, E, 0, 0, 4, Has a dog.
+DIS
+Lauren Renee, F, 23, 235463551, lauren.renee@gmail.com, internet ad, false, false, null, 1, 1, 4, Wants to move to Poland. Currently lives in Germany.
+Gerald Ingeld, M, 58, 722637291, geraldo@gmail.com, internet ad, false, false, E, 1, 0, 5, none.
+Mary Smith, F, 30, +48 1378 12781 123, mary.smith@gmail.com, internet ad, false, true, W, 2, 0, 4, Wants to move to this city.
+Ellie Murphy, F, 30, +48 2612 313 1362, e.murphy@gmail.com, inetrnet ad, false, true, W, 1, 0, 4, Wants to move to this city.
+Ed Stewerd, M, 40, +48 7271 3172 127, e.stewerd@gmail.com, internet ad, false, true, W, 1, 0, 4, Wants to move to this city.
